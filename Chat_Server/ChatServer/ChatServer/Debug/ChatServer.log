@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\cpp\chat_server\chatserver\chatserver\source.cpp(69): warning C4018: '<': signed/unsigned mismatch
+d:\cpp\chat_server\chatserver\chatserver\source.cpp(83): warning C4018: '<': signed/unsigned mismatch
+d:\cpp\chat_server\chatserver\chatserver\source.cpp(87): warning C4390: ';': empty controlled statement found; is this the intent?
+  ChatServer.vcxproj -> D:\cpp\Chat_Server\ChatServer\Debug\ChatServer.exe
+  ChatServer.vcxproj -> D:\cpp\Chat_Server\ChatServer\Debug\ChatServer.pdb (Partial PDB)
